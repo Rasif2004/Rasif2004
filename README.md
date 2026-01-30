@@ -45,17 +45,6 @@ I am currently deployed on a mission to bridge the gap between theoretical AI an
 
 ---
 
-### 📊 **SYSTEM METRICS**
-
-### 📊 **SYSTEM METRICS**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rasif2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasif2004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://streak-stats.demolab.com?user=Rasif2004&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
----
-
 ### 📂 **DECRYPTED PROJECTS**
 
 | Project ID | Class | Description | Stack |
