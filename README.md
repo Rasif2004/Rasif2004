@@ -1,13 +1,11 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=SYSTEM%20ONLINE&fontSize=70&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=Initializing%20Neural%20Handshake...&descAlignY=55&descSize=20" width="100%"/>
-</div>
-
-<h1 align="center"> // WELCOME, TRAVELER. </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F2FF&width=435&lines=HELLO+WORLD;I+AM+[YOUR+NAME];SYSTEM+READY..." alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <samp>
-    > ACCESSING ARCHIVES... <br>
-    > IDENTITY CONFIRMED: <b>CSE Undergrad @ Daffodil International University</b> <br>
+    > SUBJECT NAME: <b>Sajidul Kabir Rasif</b> <br>
+    > CLASSIFICATION: <b>CSE Undergrad @ Daffodil International University</b> <br>
     > ORIGIN: <b>Bangladesh</b> 🇧🇩 <br>
     > CURRENT STATUS: <b>Semester 5 [Active]</b>
   </samp>
