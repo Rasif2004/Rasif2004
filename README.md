@@ -49,18 +49,18 @@ I am currently deployed on a mission to bridge the gap between theoretical AI an
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=[Rasif2004]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Rasif2004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Rasif2004]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rasif2004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rasif2004&theme=radical&hide_border=true&background=0d1117" />
 </div>
 
 ---
