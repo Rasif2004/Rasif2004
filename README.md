@@ -22,7 +22,7 @@
 I am currently deployed on a mission to bridge the gap between theoretical AI and real-world application. My neural network is currently trained on **Deep Learning** and **Time Series Forecasting**.
 
 * 🔭 **Current Objective:** Forecasting rainfall patterns in Bangladesh (Research accepted at **UCICS Rajshahi**).
-* 🎥 **Data Transmission:** Decoding research papers on my channel, **[PaperLens](YOUR_YOUTUBE_LINK)**.
+* 🎥 **Data Transmission:** Decoding research papers on my channel, **[PaperLens](https://www.youtube.com/@PaperLens004)**.
 * 🌱 **Learning Protocol:** React + TypeScript (Vite) & Mastering 'Holt-Winters' models.
 * 🎯 **Target Destination:** Masters in Robotics/AI at **TUM** or **ETH Zurich**.
 
@@ -51,11 +51,11 @@ I am currently deployed on a mission to bridge the gap between theoretical AI an
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=[Rasif2004]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Rasif2004]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
@@ -80,6 +80,6 @@ I am currently deployed on a mission to bridge the gap between theoretical AI an
 <div align="center">
   <samp>
     End Transmission. <br>
-    <a href="mailto:your-email@example.com">ESTABLISH_UPLINK(EMAIL)</a>
+    <a href="mailto:rasif782004@gmail.com">ESTABLISH_UPLINK(EMAIL)</a>
   </samp>
 </div>
