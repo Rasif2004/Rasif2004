@@ -54,9 +54,9 @@ I am an aspiring researcher focused on **Artificial Intelligence** and **Robotic
 
 | **ID** | **Class** | **Description** | **Stack** |
 | :--- | :--- | :--- | :--- |
-| **CafeOJ** | 🟦 System | Online Judge Backend | `Spring Boot` `Postgres` |
-| **Rainfall-AI** | 🟪 Research | Weather Forecasting Model | `LSTM` `Python` |
-| **PaperLens** | 🟥 Media | Research Visualization | `Adobe` `YouTube` |
+| **CafeOJ** | System | Online Judge Backend | `Spring Boot` `Postgres` |
+| **Rainfall-AI** | Research | Weather Forecasting Model | `LSTM` `Python` |
+| **PaperLens** | Media | Research Visualization | `Adobe` `YouTube` |
 
 <br>
 
