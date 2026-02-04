@@ -1,7 +1,7 @@
 ![Header](./github-header-banner.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=00F2FF&width=435&lines=HELLO+WORLD;I+AM+SAJIDUL+KABIR+RASIF;SYSTEM+READY..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=00F2FF&width=435&lines=HELLO+WORLD!;I+AM+SAJIDUL+KABIR+RASIF;SYSTEM+READY..." alt="Typing SVG" />
 </h1>
 
 <div align="center">
