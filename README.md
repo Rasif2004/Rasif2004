@@ -46,7 +46,7 @@ I am an aspiring researcher focused on **Artificial Intelligence** and **Robotic
 <br>
 
 > **Terminal Config:**
-> `Shell: Fish` 🐟  // `Theme: Oh-My-Posh` 💅 // `OS: Fedora`
+> `Shell: Fish`  // `Theme: Oh-My-Posh` // `OS: Fedora`
 
 ---
 
