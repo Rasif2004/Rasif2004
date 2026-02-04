@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=SYSTEM%20ONLINE&fontSize=70&fontColor=00f2ff&animation=fadeIn&fontAlignY=35&desc=Initializing%20Neural%20Link...&descAlignY=55&descSize=20" width="100%"/>
-</div>
+![Header](./github-header-banner.png)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=00F2FF&width=435&lines=HELLO+WORLD;I+AM+SAJIDUL+KABIR+RASIF;SYSTEM+READY..." alt="Typing SVG" />
