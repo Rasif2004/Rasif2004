@@ -23,7 +23,7 @@
 
 > "Decoding the algorithm of reality."
 
-I am an aspiring researcher focused on **Artificial Intelligence** and **Robotics**. My neural network is currently optimizing for a Master's at **TUM** or **ETH Zurich**.
+I am an aspiring researcher focused on **Artificial Intelligence** and **Robotics**.
 
 * 🔭 **Active Protocol:** Forecasting rainfall using **Deep Learning** (Research accepted at **UCICS Rajshahi**).
 * 🔮 **Data Uplink:** Visualizing AI concepts on **[PaperLens](https://www.youtube.com/@PaperLens004)**.
